@@ -1,1 +1,1 @@
-# js-pain
+# js-paint
